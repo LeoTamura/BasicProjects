@@ -1,2 +1,2 @@
 # BasicProjects
-Basic examples using JS, HTML and CSS.
+Examples using JS, HTML and CSS.
