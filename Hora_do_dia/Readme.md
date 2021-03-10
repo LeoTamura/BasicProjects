@@ -1,1 +1,1 @@
-Background color and imgages changes accordingly with the system time.
+Background color and images changes accordingly with the system time.
