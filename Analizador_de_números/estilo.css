@@ -1,0 +1,47 @@
+body{
+    background: cornflowerblue;
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 20px;
+    padding: 30px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.37);
+}
+
+select{
+    width: 200px;
+}
+
+.div2{
+    background: cornflowerblue;
+    border-radius: 20px;
+    padding: auto;
+    margin: auto;
+    width: auto;
+    height: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.37);
+   
+}
+
+#res{
+    
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    display: none;   
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
